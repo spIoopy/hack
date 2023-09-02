@@ -1,4 +1,4 @@
-# guwisc
+# hack
 This is a sven coop cheat, It has been released exactly at September 19 20:15
 
 # How to install?
